@@ -1,2 +1,1 @@
-# memories_1232
-for practice 
+Deploying resume on AWS S3 using GitHub Actions
